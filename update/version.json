@@ -1,7 +1,7 @@
 {
- "versionCode": 17,
- "versionName": "1.9.4",
- "size": 2855942,
+ "versionCode": 18,
+ "versionName": "1.9.5",
+ "size": 2866895,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Telefono: 3 preferiti, schede Recenti / Rubrica / Notifiche\n• Registro delle chiamate fatte, ricevute e perse in auto\n• Notifiche dell'iPhone via Bluetooth (sperimentale): Telefono › Notifiche › Attiva\n• Giri motore di nuovo nei riquadri"
+ "notes": "• Impostazioni nuove: sezioni a sinistra, interruttori veri a destra\n• Chiamate: niente più doppio riquadro (resta solo quello della radio)\n• Notifiche iPhone: testo più leggibile e istruzioni chiare\n• Player: Spotify torna sempre disponibile anche in modalità Bluetooth"
 }
