@@ -1,7 +1,7 @@
 {
- "versionCode": 15,
- "versionName": "1.9.2",
- "size": 2827844,
+ "versionCode": 16,
+ "versionName": "1.9.3",
+ "size": 2837141,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• All'accensione: AutoHome sorveglia il primo minuto e torna in primo piano se la radio riapre il Bluetooth\n• Tastierino del telefono funzionante (chiama dal Bluetooth della radio)\n• La tua auto: dati corretti dal CAN + giri, consumo, velocità media, carburante, percorrenza, clima, sensori, frecce, luci"
+ "notes": "• Nuovo tastierino del telefono\n• Tocca «La tua auto»: scheda con tutti i dati che manda l'auto (anche quelli a zero) e i dati grezzi"
 }
