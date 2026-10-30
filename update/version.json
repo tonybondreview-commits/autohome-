@@ -1,7 +1,7 @@
 {
- "versionCode": 21,
- "versionName": "1.9.8",
- "size": 2903228,
+ "versionCode": 22,
+ "versionName": "1.9.9",
+ "size": 2904463,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Vista parcheggio: in retromarcia l'auto 3D si vede dall'alto con le zone dei sensori\n• Frecce lette correttamente (lampeggio)\n• Avvio: la radio non riapre più il suo Bluetooth (Impostazioni › Accensione) + registro accensione\n• Mappa offline: recupero dei pezzi grigi\n• Impostazioni › Sistema › Prova telecamere"
+ "notes": "• Retromarcia: il riquadro dell'auto diventa la vista dall'alto con i sensori e la R\n• Fuori dalla retro: auto 3D con la marcia (P / N / D)\n• Sensori anteriori spenti (attivabili in Impostazioni › Auto 3D)"
 }
