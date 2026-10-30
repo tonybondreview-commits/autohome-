@@ -1,7 +1,7 @@
 {
- "versionCode": 19,
- "versionName": "1.9.6",
- "size": 2889561,
+ "versionCode": 20,
+ "versionName": "1.9.7",
+ "size": 2890150,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Impostazioni › Aspetto: anteprime di layout, tema e colore\n• Pulsante Indietro nelle finestre di scelta\n• Mappa più larga o più stretta col tasto ‹ › sul bordo\n• Musica Bluetooth: copertina, testo sincronizzato, brani ascoltati, sorgenti\n• Notifiche iPhone: istruzioni leggibili"
+ "notes": "• Divisorio mappa/riquadro: barretta da trascinare (tocco = stretto/normale)\n• Notifiche iPhone: annuncio Bluetooth LE più riconoscibile"
 }
