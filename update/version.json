@@ -1,7 +1,7 @@
 {
- "versionCode": 20,
- "versionName": "1.9.7",
- "size": 2890150,
+ "versionCode": 21,
+ "versionName": "1.9.8",
+ "size": 2903228,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Divisorio mappa/riquadro: barretta da trascinare (tocco = stretto/normale)\n• Notifiche iPhone: annuncio Bluetooth LE più riconoscibile"
+ "notes": "• Vista parcheggio: in retromarcia l'auto 3D si vede dall'alto con le zone dei sensori\n• Frecce lette correttamente (lampeggio)\n• Avvio: la radio non riapre più il suo Bluetooth (Impostazioni › Accensione) + registro accensione\n• Mappa offline: recupero dei pezzi grigi\n• Impostazioni › Sistema › Prova telecamere"
 }
