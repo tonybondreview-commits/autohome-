@@ -1,7 +1,7 @@
 {
- "versionCode": 12,
- "versionName": "1.8.1",
- "size": 2806511,
+ "versionCode": 13,
+ "versionName": "1.9",
+ "size": 2817134,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Diagnostica completa: legge anche il servizio interno della radio (CarService)\n• Menu › Esporta file della radio: pacchetto per lo sviluppatore"
+ "notes": "• Musica Bluetooth: titolo, artista, avanzamento e tasti avanti/indietro tramite il servizio della radio\n• Chiamate: riquadro con Rispondi/Rifiuta, rubrica dell'iPhone e chiamata dai contatti\n• La tua auto: velocità e temperatura esterna dall'auto (CAN), km e avvisi\n• Diagnostica rapida con i valori letti dalla radio"
 }
