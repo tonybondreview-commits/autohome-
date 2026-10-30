@@ -1,7 +1,7 @@
 {
- "versionCode": 16,
- "versionName": "1.9.3",
- "size": 2837141,
+ "versionCode": 17,
+ "versionName": "1.9.4",
+ "size": 2855942,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Nuovo tastierino del telefono\n• Tocca «La tua auto»: scheda con tutti i dati che manda l'auto (anche quelli a zero) e i dati grezzi"
+ "notes": "• Telefono: 3 preferiti, schede Recenti / Rubrica / Notifiche\n• Registro delle chiamate fatte, ricevute e perse in auto\n• Notifiche dell'iPhone via Bluetooth (sperimentale): Telefono › Notifiche › Attiva\n• Giri motore di nuovo nei riquadri"
 }
