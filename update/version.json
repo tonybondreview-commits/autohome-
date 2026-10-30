@@ -1,7 +1,7 @@
 {
- "versionCode": 14,
- "versionName": "1.9.1",
- "size": 2820729,
+ "versionCode": 15,
+ "versionName": "1.9.2",
+ "size": 2827844,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• All'accensione si apre sempre AutoHome, anche se la radio riapre il Bluetooth originale\n• La musica riparte da sola dall'ultima sorgente (Bluetooth dell'iPhone o Spotify)\n• Opzione: durante le chiamate solo un riquadro piccolo della radio sopra AutoHome\n(Menu › Accensione e chiamate)"
+ "notes": "• All'accensione: AutoHome sorveglia il primo minuto e torna in primo piano se la radio riapre il Bluetooth\n• Tastierino del telefono funzionante (chiama dal Bluetooth della radio)\n• La tua auto: dati corretti dal CAN + giri, consumo, velocità media, carburante, percorrenza, clima, sensori, frecce, luci"
 }
