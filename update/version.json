@@ -1,7 +1,7 @@
 {
- "versionCode": 30,
- "versionName": "2.7",
- "size": 2703135,
+ "versionCode": 31,
+ "versionName": "2.8",
+ "size": 2706634,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Registrazione CAN sicura: solo da fermi, su Can1, e alla fine ripristina sensori e dati dell'auto"
+ "notes": "• Stili della mappa: CarPlay, Neon, Terra, Minimal (Impostazioni › Aspetto)"
 }
