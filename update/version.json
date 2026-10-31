@@ -1,7 +1,7 @@
 {
- "versionCode": 31,
- "versionName": "2.8",
- "size": 2706634,
+ "versionCode": 32,
+ "versionName": "3.0",
+ "size": 2714757,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Stili della mappa: CarPlay, Neon, Terra, Minimal (Impostazioni › Aspetto)"
+ "notes": "• Nuovo layout CarPlay: Dock colorato con orologio e meteo, mappa, musica e auto in riquadri ridimensionabili\n• Sezione «La tua auto» a tutto schermo con gli stessi colori\n• Si sceglie in Impostazioni › Aspetto › Layout"
 }
