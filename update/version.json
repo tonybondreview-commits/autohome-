@@ -1,7 +1,7 @@
 {
- "versionCode": 36,
- "versionName": "3.0.4",
- "size": 2716646,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• CarPlay: Dock con 5 icone più grandi; tieni premuto Telefono per l'assistente vocale\n• Tocca l'orologio per aprire le impostazioni\n• Assistente vocale: senza internet usa l'italiano offline di Google"
+  "versionCode": 37,
+  "versionName": "3.1.0",
+  "size": 2731832,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
+  "notes": "Assistenza alla guida: avviso velocità oltre il limite, autovelox con distanza e icone sulla mappa, promemoria pausa dopo 2 ore, collegamento all'app DVR della dashcam."
 }
