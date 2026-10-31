@@ -1,7 +1,7 @@
 {
- "versionCode": 22,
- "versionName": "1.9.9",
- "size": 2904463,
+ "versionCode": 23,
+ "versionName": "2.0",
+ "size": 2660714,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Retromarcia: il riquadro dell'auto diventa la vista dall'alto con i sensori e la R\n• Fuori dalla retro: auto 3D con la marcia (P / N / D)\n• Sensori anteriori spenti (attivabili in Impostazioni › Auto 3D)"
+ "notes": "• Nuova auto 3D predefinita (A3 Sportback), carrozzeria più liscia\n• Diagnostica: tasto «Invia a GitHub» (Impostazioni › Sistema › Diagnostica su GitHub)\n• Auto 3D: opzione «Modello girato di 180°» per i modelli caricati"
 }
