@@ -1,7 +1,7 @@
 {
- "versionCode": 34,
- "versionName": "3.0.2",
- "size": 2716452,
+ "versionCode": 35,
+ "versionName": "3.0.3",
+ "size": 2716444,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Corretto il blocco del layout CarPlay"
+ "notes": "• Layout CarPlay: le icone del Dock si adattano allo schermo (ora si vedono anche Auto e App)"
 }
