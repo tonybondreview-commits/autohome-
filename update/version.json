@@ -1,7 +1,7 @@
 {
- "versionCode": 33,
- "versionName": "3.0.1",
- "size": 2716409,
+ "versionCode": 34,
+ "versionName": "3.0.2",
+ "size": 2716452,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Protezione: se il layout CarPlay si blocca, AutoHome torna al layout Mappa e invia i dettagli"
+ "notes": "• Corretto il blocco del layout CarPlay"
 }
