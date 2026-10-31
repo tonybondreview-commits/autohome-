@@ -1,7 +1,7 @@
 {
- "versionCode": 28,
- "versionName": "2.5",
- "size": 2702683,
+ "versionCode": 29,
+ "versionName": "2.6",
+ "size": 2702755,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Registrazione CAN: se resta vuota invia i dettagli allo sviluppatore\n• Copertine e testi più precisi con la musica dall'iPhone"
+ "notes": "• Registrazione CAN: riparte correttamente anche se attivata dal menu della radio"
 }
