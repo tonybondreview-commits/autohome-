@@ -1,7 +1,7 @@
 {
- "versionCode": 32,
- "versionName": "3.0",
- "size": 2714757,
+ "versionCode": 33,
+ "versionName": "3.0.1",
+ "size": 2716409,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Nuovo layout CarPlay: Dock colorato con orologio e meteo, mappa, musica e auto in riquadri ridimensionabili\n• Sezione «La tua auto» a tutto schermo con gli stessi colori\n• Si sceglie in Impostazioni › Aspetto › Layout"
+ "notes": "• Protezione: se il layout CarPlay si blocca, AutoHome torna al layout Mappa e invia i dettagli"
 }
