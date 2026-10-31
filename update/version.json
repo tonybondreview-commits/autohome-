@@ -1,7 +1,7 @@
 {
- "versionCode": 24,
- "versionName": "2.1",
- "size": 2679401,
+ "versionCode": 25,
+ "versionName": "2.2",
+ "size": 2686943,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Comandi vocali (tasto microfono): «portami a casa», «chiama …», «metti …», «pausa», «dove ho parcheggiato»\n• Parcheggio ricordato quando togli la chiave, con notifica sull'iPhone (app ntfy)\n• Luminosità automatica giorno/notte (Impostazioni › Aspetto)"
+ "notes": "• Auto viva: frecce, fari, stop, retromarcia e porte aperte sull'auto 3D\n• Animazione di benvenuto all'accensione (disattivabile in Impostazioni › Auto 3D)\n• Player: sfondo con la copertina sfocata"
 }
