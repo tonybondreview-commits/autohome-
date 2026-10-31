@@ -1,7 +1,7 @@
 {
- "versionCode": 26,
- "versionName": "2.3",
- "size": 2699741,
+ "versionCode": 27,
+ "versionName": "2.4",
+ "size": 2700650,
  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Registrazione CAN guidata (Impostazioni › Sistema › Registra CAN)\n• Diagnostiche inviate da sole allo sviluppatore"
+ "notes": "• Player: scheda «Testo» anche per Spotify e gli altri player, sincronizzato col brano"
 }
