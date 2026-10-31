@@ -1,7 +1,7 @@
 {
- "versionCode": 38,
- "versionName": "3.2.0",
- "size": 2743298,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
- "notes": "• Dashcam collegata: immagini dal vivo dentro AutoHome\n• Avviso «il veicolo davanti è partito» e «semaforo verde» (sperimentali, da fermo)\n• App DVR «Traffic safety guard» ora riconosciuta"
+ "versionCode": 39,
+ "versionName": "3.2.1",
+ "size": 2746703,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cc79b22efbeb53509f63b62bbaf347e193c263ae/update/AutoHome.apk",
+ "notes": "• Dashcam letta direttamente dal disco USB (file VSFILE), senza passare dall'app DVR\n• Gli aggiornamenti si vedono appena pubblicati"
 }
