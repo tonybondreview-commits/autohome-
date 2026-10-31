@@ -1,7 +1,7 @@
 {
- "versionCode": 40,
- "versionName": "3.2.2",
- "size": 2757798,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/fdeab18adb97568da1a51618151ed62d82a6f483/update/AutoHome.apk",
- "notes": "• Dashcam USB collegata direttamente ad AutoHome (sola lettura)\n• Per la prova: chiudi l'app Traffic safety guard, poi apri Dashcam dal vivo"
+ "versionCode": 41,
+ "versionName": "3.2.3",
+ "size": 2757789,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ff6fb1955a915583ed4d0a3470c2c0ff80a5d1d8/update/AutoHome.apk",
+ "notes": "• Dashcam USB: AutoHome ora la stacca dal driver disco di Android per leggerla"
 }
