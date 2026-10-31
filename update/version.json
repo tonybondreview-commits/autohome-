@@ -1,7 +1,7 @@
 {
- "versionCode": 41,
- "versionName": "3.2.3",
- "size": 2757789,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ff6fb1955a915583ed4d0a3470c2c0ff80a5d1d8/update/AutoHome.apk",
- "notes": "• Dashcam USB: AutoHome ora la stacca dal driver disco di Android per leggerla"
+ "versionCode": 42,
+ "versionName": "3.2.4",
+ "size": 2758860,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e305ab9f1548dfc78b8cbb97dc95ff3c6229baf3/update/AutoHome.apk",
+ "notes": "• Dashcam USB: immagini lette con la lunghezza esatta\n• AutoHome non risveglia più l'app DVR mentre legge la dashcam"
 }
