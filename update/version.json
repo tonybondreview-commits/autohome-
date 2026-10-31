@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "3.1.0",
-  "size": 2731832,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
-  "notes": "Assistenza alla guida: avviso velocità oltre il limite, autovelox con distanza e icone sulla mappa, promemoria pausa dopo 2 ore, collegamento all'app DVR della dashcam."
+ "versionCode": 38,
+ "versionName": "3.2.0",
+ "size": 2743298,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/main/update/AutoHome.apk",
+ "notes": "• Dashcam collegata: immagini dal vivo dentro AutoHome\n• Avviso «il veicolo davanti è partito» e «semaforo verde» (sperimentali, da fermo)\n• App DVR «Traffic safety guard» ora riconosciuta"
 }
