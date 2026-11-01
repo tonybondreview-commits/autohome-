@@ -1,7 +1,7 @@
 {
- "versionCode": 50,
- "versionName": "3.6.1",
- "size": 21297691,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a45e775facbe3b9271d8c7727faa18d4444c805f/update/AutoHome.apk",
- "notes": "• IA: l'auto davanti deve essere nella tua corsia (niente più auto parcheggiate)\n• Semafori letti a risoluzione piena, con distanza: nella vista 3D si avvicinano\n• Cartelli confermati mostrati nella vista 3D e sulla mappa"
+ "versionCode": 51,
+ "versionName": "3.7.0",
+ "size": 21297695,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/dff458da5ff54b3f92a253322691bcfa1f6c19eb/update/AutoHome.apk",
+ "notes": "• Dashcam senza app originale: AutoHome le manda data/ora e la velocità per i video\n• Interruttori «Ora della dashcam» e «Velocità nei video» in Assistenza alla guida"
 }
