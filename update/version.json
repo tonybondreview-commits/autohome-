@@ -1,7 +1,7 @@
 {
- "versionCode": 49,
- "versionName": "3.6.0",
- "size": 21296964,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e67faeb3d6d7160bd0ab06c04994fc3131957a2b/update/AutoHome.apk",
- "notes": "• Dashcam a risoluzione piena e al ritmo della telecamera\n• IA più veloce (XNNPACK) e meno falsi allarmi; lavora solo quando serve\n• Chiusura automatica dell'app DVR (attivala una volta in Assistenza alla guida)\n• Vista guida 3D: giorno/notte veri; si apre tenendo premuto il riquadro dell'auto o la velocità"
+ "versionCode": 50,
+ "versionName": "3.6.1",
+ "size": 21297691,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a45e775facbe3b9271d8c7727faa18d4444c805f/update/AutoHome.apk",
+ "notes": "• IA: l'auto davanti deve essere nella tua corsia (niente più auto parcheggiate)\n• Semafori letti a risoluzione piena, con distanza: nella vista 3D si avvicinano\n• Cartelli confermati mostrati nella vista 3D e sulla mappa"
 }
