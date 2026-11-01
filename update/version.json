@@ -1,7 +1,7 @@
 {
- "versionCode": 43,
- "versionName": "3.2.5",
- "size": 2759997,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/bad7f6a8dea7b82d1f89963a949a0ad671587586/update/AutoHome.apk",
- "notes": "• Dashcam USB: lettura con la stessa sequenza dell'app originale (immagini continue)"
+ "versionCode": 44,
+ "versionName": "3.3.0",
+ "size": 2769134,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/649e5c51f3e201782dc0b1125ff49fc38586ab78/update/AutoHome.apk",
+ "notes": "• Vista guida 3D: la tua auto da dietro con limiti, semafori, frecce e stop veri, video dashcam nel riquadro\n• Si apre tenendo premuto «La tua auto» o da Assistenza alla guida\n• Dashcam USB: lettura come l'app originale"
 }
