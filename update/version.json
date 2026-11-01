@@ -1,7 +1,7 @@
 {
- "versionCode": 52,
- "versionName": "3.7.1",
- "size": 21297693,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a7578541f0c77f6251dfbced98ec800178e85758/update/AutoHome.apk",
- "notes": "• Motore IA a scelta: processore, scheda grafica o DSP 8 bit (NNAPI) — in Assistenza alla guida"
+ "versionCode": 53,
+ "versionName": "3.8.0",
+ "size": 21299237,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/fdba61ca2fdaf693d15b1ec19cc0e00fe57535d2/update/AutoHome.apk",
+ "notes": "• Semafori più precisi (anche di notte e lontani)\n• Cartelli riconosciuti più spesso\n• Vista 3D: auto e pedoni ai lati, cartelli più vicini e grandi"
 }
