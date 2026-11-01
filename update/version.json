@@ -1,7 +1,7 @@
 {
- "versionCode": 47,
- "versionName": "3.5.1",
- "size": 46683920,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/855e7ba60bb2e51a4e47c0e1d38290b1ba2a85db/update/AutoHome.apk",
- "notes": "• Dashcam: corretto il blocco dopo pochi secondi (riquadri IA)\n• Dashcam: reset automatico all'avvio e ricollegamento da sola"
+ "versionCode": 48,
+ "versionName": "3.5.2",
+ "size": 21295758,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/87e24f25dc2e39407fce1ea86f25ef53c7d3b9e2/update/AutoHome.apk",
+ "notes": "• Modelli IA scaricati una volta sola sulla radio: aggiornamento più leggero (~21 MB)\n• Dashcam: se le immagini si fermano, riparte da sola\n• Nuova voce «Disattiva l'app DVR» in Assistenza alla guida"
 }
