@@ -1,7 +1,7 @@
 {
- "versionCode": 48,
- "versionName": "3.5.2",
- "size": 21295758,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/87e24f25dc2e39407fce1ea86f25ef53c7d3b9e2/update/AutoHome.apk",
- "notes": "• Modelli IA scaricati una volta sola sulla radio: aggiornamento più leggero (~21 MB)\n• Dashcam: se le immagini si fermano, riparte da sola\n• Nuova voce «Disattiva l'app DVR» in Assistenza alla guida"
+ "versionCode": 49,
+ "versionName": "3.6.0",
+ "size": 21296964,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e67faeb3d6d7160bd0ab06c04994fc3131957a2b/update/AutoHome.apk",
+ "notes": "• Dashcam a risoluzione piena e al ritmo della telecamera\n• IA più veloce (XNNPACK) e meno falsi allarmi; lavora solo quando serve\n• Chiusura automatica dell'app DVR (attivala una volta in Assistenza alla guida)\n• Vista guida 3D: giorno/notte veri; si apre tenendo premuto il riquadro dell'auto o la velocità"
 }
