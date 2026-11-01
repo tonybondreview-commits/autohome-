@@ -1,7 +1,7 @@
 {
- "versionCode": 51,
- "versionName": "3.7.0",
- "size": 21297695,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/dff458da5ff54b3f92a253322691bcfa1f6c19eb/update/AutoHome.apk",
- "notes": "• Dashcam senza app originale: AutoHome le manda data/ora e la velocità per i video\n• Interruttori «Ora della dashcam» e «Velocità nei video» in Assistenza alla guida"
+ "versionCode": 52,
+ "versionName": "3.7.1",
+ "size": 21297693,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a7578541f0c77f6251dfbced98ec800178e85758/update/AutoHome.apk",
+ "notes": "• Motore IA a scelta: processore, scheda grafica o DSP 8 bit (NNAPI) — in Assistenza alla guida"
 }
