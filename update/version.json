@@ -1,7 +1,7 @@
 {
- "versionCode": 46,
- "versionName": "3.5.0",
- "size": 46683922,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/86ab154a18eeee49c849107fb389913443125555/update/AutoHome.apk",
- "notes": "• Cartelli riconosciuti dalla dashcam (modello di Alfonso): limite, strisce pedonali, stop\n• Vista guida 3D: il cartello di limite compare quando la dashcam lo vede\n• IA: auto, pedoni, semafori, distanza dell'auto davanti\n• Aggiornamento grande (~47 MB) per i modelli IA"
+ "versionCode": 47,
+ "versionName": "3.5.1",
+ "size": 46683920,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/855e7ba60bb2e51a4e47c0e1d38290b1ba2a85db/update/AutoHome.apk",
+ "notes": "• Dashcam: corretto il blocco dopo pochi secondi (riquadri IA)\n• Dashcam: reset automatico all'avvio e ricollegamento da sola"
 }
