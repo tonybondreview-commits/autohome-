@@ -1,7 +1,7 @@
 {
- "versionCode": 45,
- "versionName": "3.4.0",
- "size": 34004517,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c90011c991ad3347d73ba3c94a1667862b87fdb6/update/AutoHome.apk",
- "notes": "• Riconoscimento con IA (YOLOv8n) sulle immagini della dashcam: auto, camion, moto, pedoni, semafori, stop\n• Vista guida 3D: auto davanti alla distanza stimata, rossa se troppo vicina\n• Avviso distanza sotto 1 secondo\n• Aggiornamento più grande (~34 MB) per il modello IA"
+ "versionCode": 46,
+ "versionName": "3.5.0",
+ "size": 46683922,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/86ab154a18eeee49c849107fb389913443125555/update/AutoHome.apk",
+ "notes": "• Cartelli riconosciuti dalla dashcam (modello di Alfonso): limite, strisce pedonali, stop\n• Vista guida 3D: il cartello di limite compare quando la dashcam lo vede\n• IA: auto, pedoni, semafori, distanza dell'auto davanti\n• Aggiornamento grande (~47 MB) per i modelli IA"
 }
