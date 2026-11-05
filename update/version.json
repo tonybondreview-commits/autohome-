@@ -1,7 +1,7 @@
 {
- "versionCode": 59,
- "versionName": "3.11.0",
- "size": 46613012,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/db6a6491d15aeba8abe3e90de7b7c7f9c01ea9e6/update/AutoHome.apk",
- "notes": "• Mappa Mapbox nativa: molto più fluida\n• Telecamera USB (UVC) al posto della dashcam: 1280×720 a 30 fps"
+ "versionCode": 61,
+ "versionName": "3.12.0",
+ "size": 45997029,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c25f170e44873c6098bab98fb955e19c74882486/update/AutoHome.apk",
+ "notes": "• Auto 3D viva: ruote che sterzano col volante, porte aperte\n• Retromarcia con traiettoria\n• Riserva: distributori più economici vicini (prezzi MIMIT)\n• Pannello clima a schermo\n• Avvisi: porta, cintura, freno a mano, ghiaccio\n• Protezione anti-blocco per Mapbox e telecamera USB"
 }
