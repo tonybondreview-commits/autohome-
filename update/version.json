@@ -1,7 +1,7 @@
 {
- "versionCode": 56,
- "versionName": "3.9.1",
- "size": 21951283,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/3f49ced6beae3ed71b57dd558bb40808626a9447/update/AutoHome.apk",
- "notes": "• Mapbox: se la mappa non parte, un messaggio dice il motivo esatto"
+ "versionCode": 57,
+ "versionName": "3.9.2",
+ "size": 21951289,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ed15abcdb0810464be580d2a49ecb08b540ed34f/update/AutoHome.apk",
+ "notes": "• Mapbox ora si carica anche sul browser della radio"
 }
