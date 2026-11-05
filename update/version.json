@@ -1,7 +1,7 @@
 {
- "versionCode": 53,
- "versionName": "3.8.0",
- "size": 21299237,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/fdba61ca2fdaf693d15b1ec19cc0e00fe57535d2/update/AutoHome.apk",
- "notes": "• Semafori più precisi (anche di notte e lontani)\n• Cartelli riconosciuti più spesso\n• Vista 3D: auto e pedoni ai lati, cartelli più vicini e grandi"
+ "versionCode": 55,
+ "versionName": "3.9.0",
+ "size": 21950981,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1ed0fd859daabd8b033bef4937bde821cc5e8f1e/update/AutoHome.apk",
+ "notes": "• Mappe a scelta: OpenStreetMap o Mapbox (Navigazione, Strade, Satellite, Standard 3D) — Impostazioni › Aspetto › Mappe\n• Il token della diagnostica non è più dentro l'APK"
 }
