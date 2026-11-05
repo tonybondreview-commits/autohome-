@@ -1,7 +1,7 @@
 {
- "versionCode": 58,
- "versionName": "3.10.0",
- "size": 21951293,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/3f2d19eb9d78cb91d98b6833f85409e947b23d07/update/AutoHome.apk",
- "notes": "• CAN dal vivo (sola lettura, ad auto ferma) — Impostazioni › Diagnostica\n• Voce del navigatore mixata dalla radio sopra l'audio dell'auto"
+ "versionCode": 59,
+ "versionName": "3.11.0",
+ "size": 46613012,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/db6a6491d15aeba8abe3e90de7b7c7f9c01ea9e6/update/AutoHome.apk",
+ "notes": "• Mappa Mapbox nativa: molto più fluida\n• Telecamera USB (UVC) al posto della dashcam: 1280×720 a 30 fps"
 }
