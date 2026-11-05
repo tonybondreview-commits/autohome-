@@ -1,7 +1,7 @@
 {
- "versionCode": 61,
- "versionName": "3.12.0",
- "size": 45997029,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c25f170e44873c6098bab98fb955e19c74882486/update/AutoHome.apk",
- "notes": "• Auto 3D viva: ruote che sterzano col volante, porte aperte\n• Retromarcia con traiettoria\n• Riserva: distributori più economici vicini (prezzi MIMIT)\n• Pannello clima a schermo\n• Avvisi: porta, cintura, freno a mano, ghiaccio\n• Protezione anti-blocco per Mapbox e telecamera USB"
+ "versionCode": 62,
+ "versionName": "3.12.1",
+ "size": 45997102,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/188a292a4d1658f73cf8069619dcc86c0116853e/update/AutoHome.apk",
+ "notes": "• Mappa Mapbox nativa: corretto il blocco all'avvio\n• Linee della retromarcia e ruote 3D ora girano anche verso destra"
 }
