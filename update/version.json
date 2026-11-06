@@ -1,7 +1,7 @@
 {
- "versionCode": 69,
- "versionName": "3.17.1",
- "size": 55273891,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1a7c4b6c2a5a0684fffc82451acafddbecd40b0d/update/AutoHome.apk",
- "notes": "• Luci LED: corretto il collegamento che risultava attivo ma non mandava i comandi\n• Prova delle luci: trova il modo giusto per la tua striscia"
+ "versionCode": 70,
+ "versionName": "3.18.0",
+ "size": 55273890,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/4cd46d7fa5b5fd5b60253ab8ea05d5e9975dd8ef/update/AutoHome.apk",
+ "notes": "• Il copilota risponde sempre a voce (anche senza navigatore) e a schermo\n• Pagina «Cosa puoi dire»: tutti i comandi, tocca per provarli\n• Atmosfere: musica solo via account Spotify, senza aprire l'app\n• Luci: diagnosi con i numeri dal vivo"
 }
