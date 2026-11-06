@@ -1,7 +1,7 @@
 {
- "versionCode": 66,
- "versionName": "3.16.0",
- "size": 46081006,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/44628bd00f630b87c4f68b1e0015585d9bb15b83/update/AutoHome.apk",
- "notes": "• Vista guida olografica con turbo e indicazioni\n• Copilota che impara le tue mete\n• Avviso bimbo a bordo\n• Atmosfere: Relax, Sport, Notte, Concentrazione, Festa, Natura\n• Luci ambiente Bluetooth (Loto / ELK-BLEDOM)"
+ "versionCode": 67,
+ "versionName": "3.16.1",
+ "size": 55252980,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cffb15c0a462ca22e4124aa377e03799a1252acd/update/AutoHome.apk",
+ "notes": "• «Ehi Audi» offline e senza bip\n• OBD: anche in Bluetooth classico (Vgate «Android-Vlink», PIN 1234)\n• Luci Bluetooth: collegamento con più tentativi\n• Atmosfere: musica in sottofondo, senza aprire Spotify\n• Ascolto vocale che non si chiude dopo 1 secondo"
 }
