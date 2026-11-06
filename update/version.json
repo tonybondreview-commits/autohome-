@@ -1,7 +1,7 @@
 {
- "versionCode": 64,
- "versionName": "3.14.0",
- "size": 46046301,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/48894b2e943e9c834873e959e7fec2723d7ac877/update/AutoHome.apk",
- "notes": "• Schermata OBD (Vgate iCar Pro BLE): turbo, giri, consumo, temperature, errori motore\n• Tema «Segui i fari»\n• Autovelox: voce, conto alla rovescia, bip se sei sopra il limite\n• Parcheggio con foto della telecamera (anche sull'iPhone)\n• Nuovi comandi vocali per l'auto\n• Scelta della telecamera per la dashcam"
+ "versionCode": 65,
+ "versionName": "3.15.0",
+ "size": 46063083,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e5cb08af28d9cfc6928cc0c5961d508d61191057/update/AutoHome.apk",
+ "notes": "• «Ehi Audi» sempre in ascolto e comandi vocali personalizzati\n• Tasti sulla mappa: avvicina, allontana, angolazione\n• Icone del meteo sul percorso\n• Calibrazione dello sterzo (valore dal vivo)\n• Accensione direttamente su Android\n• OBD: collegamento più affidabile e diagnosi\n• Foto del parcheggio più affidabile\n• Menu a scelta con finestra"
 }
