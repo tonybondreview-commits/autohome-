@@ -1,7 +1,7 @@
 {
- "versionCode": 68,
- "versionName": "3.17.0",
- "size": 55257490,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ffde76b2e178af42f03f08f674400a77b6886646/update/AutoHome.apk",
- "notes": "• Nuovo cruscotto OBD: contagiri e turbo animati, picco, consumo nel tempo, cronometro 0–100\n• Finestra dei colori per le strisce LED\n• Luci: comandi compatibili con più modelli BLEDOM\n• «Ehi Audi» più preciso\n• Atmosfere con playlist Spotify vere (personalizzabili)"
+ "versionCode": 69,
+ "versionName": "3.17.1",
+ "size": 55273891,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1a7c4b6c2a5a0684fffc82451acafddbecd40b0d/update/AutoHome.apk",
+ "notes": "• Luci LED: corretto il collegamento che risultava attivo ma non mandava i comandi\n• Prova delle luci: trova il modo giusto per la tua striscia"
 }
