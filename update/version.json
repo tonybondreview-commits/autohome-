@@ -1,7 +1,7 @@
 {
- "versionCode": 62,
- "versionName": "3.12.1",
- "size": 45997102,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/188a292a4d1658f73cf8069619dcc86c0116853e/update/AutoHome.apk",
- "notes": "• Mappa Mapbox nativa: corretto il blocco all'avvio\n• Linee della retromarcia e ruote 3D ora girano anche verso destra"
+ "versionCode": 63,
+ "versionName": "3.13.0",
+ "size": 46013482,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a1bd0b8c935ce93efbadccc476135c7347661dce/update/AutoHome.apk",
+ "notes": "• Mappa Mapbox 3D: edifici in rilievo, alba e tramonto veri, notte coi fari accesi\n• Promemoria auto: gomme invernali (Alto Adige dal 15/11), tagliando, revisione, bollo\n• Meteo sul percorso: neve, ghiaccio, temporali e nebbia lungo la strada"
 }
