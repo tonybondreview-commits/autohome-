@@ -1,7 +1,7 @@
 {
- "versionCode": 63,
- "versionName": "3.13.0",
- "size": 46013482,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a1bd0b8c935ce93efbadccc476135c7347661dce/update/AutoHome.apk",
- "notes": "• Mappa Mapbox 3D: edifici in rilievo, alba e tramonto veri, notte coi fari accesi\n• Promemoria auto: gomme invernali (Alto Adige dal 15/11), tagliando, revisione, bollo\n• Meteo sul percorso: neve, ghiaccio, temporali e nebbia lungo la strada"
+ "versionCode": 64,
+ "versionName": "3.14.0",
+ "size": 46046301,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/48894b2e943e9c834873e959e7fec2723d7ac877/update/AutoHome.apk",
+ "notes": "• Schermata OBD (Vgate iCar Pro BLE): turbo, giri, consumo, temperature, errori motore\n• Tema «Segui i fari»\n• Autovelox: voce, conto alla rovescia, bip se sei sopra il limite\n• Parcheggio con foto della telecamera (anche sull'iPhone)\n• Nuovi comandi vocali per l'auto\n• Scelta della telecamera per la dashcam"
 }
