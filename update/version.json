@@ -1,7 +1,7 @@
 {
- "versionCode": 71,
- "versionName": "3.18.1",
- "size": 55273896,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/7bc114031df937677b9c9d113ce9f2356beff5e6/update/AutoHome.apk",
- "notes": "• Pulizia: tolta la vecchia dashcam DVR, «Inverti sterzo», OpenStreetMap dal menu, l'apertura di Spotify\n• Strumenti da sviluppatore in «Avanzate»\n• Tema notte anche dal buio visto dalla telecamera"
+ "versionCode": 72,
+ "versionName": "3.19.0",
+ "size": 55308009,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/88721d3461294bf665b5e9206e622bae4ce99f0b/update/AutoHome.apk",
+ "notes": "• Copilota IA con Gemini: domande libere, ragiona sui dati dell'auto e agisce\n• Navigazione in realtà aumentata (tasto AR sulla mappa)\n• Vista guida 3D realistica con la tua Audi, ombre e riflessi"
 }
