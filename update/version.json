@@ -1,7 +1,7 @@
 {
- "versionCode": 72,
- "versionName": "3.19.0",
- "size": 55308009,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/88721d3461294bf665b5e9206e622bae4ce99f0b/update/AutoHome.apk",
- "notes": "• Copilota IA con Gemini: domande libere, ragiona sui dati dell'auto e agisce\n• Navigazione in realtà aumentata (tasto AR sulla mappa)\n• Vista guida 3D realistica con la tua Audi, ombre e riflessi"
+ "versionCode": 73,
+ "versionName": "3.19.1",
+ "size": 55308012,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a3e9fbd7dd0560a481c4bb75b98725504968cf11/update/AutoHome.apk",
+ "notes": "• Riserva: il distributore più vicino viene annunciato una sola volta\n• Gemini: se il modello non esiste più ne sceglie da solo uno valido (niente più errore 404)\n• Cambiare atmosfera non ricarica più la mappa\n• Luci LED: nuovo metodo di invio e codice di errore nella prova"
 }
