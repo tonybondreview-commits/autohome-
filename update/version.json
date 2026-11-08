@@ -1,7 +1,7 @@
 {
- "versionCode": 78,
- "versionName": "3.20.3",
- "size": 55324475,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/40887bb62fa78e5da932a7db9c58640ce9fd251c/update/AutoHome.apk",
- "notes": "• Radio meno calda: telecamera a 15 immagini/s e auto 3D a 20 fps (la CPU era oltre il 300%)\n• Pulsante OBD sulla mappa\n• Luci LED: la ricerca ferma i tentativi automatici ed è più sensibile"
+ "versionCode": 79,
+ "versionName": "3.20.4",
+ "size": 55324480,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cd2962b9c2fec8d23f7d142e6170388f2c26ce82/update/AutoHome.apk",
+ "notes": "• Telecamera capovolta: rotazione di 180° (AR › Regola › Ruota 180°, oppure Assistenza alla guida)\n• L'immagine dritta vale per AR, riconoscimento, foto e tema"
 }
