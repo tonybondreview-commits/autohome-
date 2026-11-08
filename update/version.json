@@ -1,7 +1,7 @@
 {
- "versionCode": 77,
- "versionName": "3.20.2",
- "size": 55324395,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/519b8ae2c125585a6d64445e6cf82dfedc6c7a4f/update/AutoHome.apk",
- "notes": "• Linee della retromarcia: verso corretto\n• Prestazioni della radio: mostra quale parte di AutoHome usa la CPU"
+ "versionCode": 78,
+ "versionName": "3.20.3",
+ "size": 55324475,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/40887bb62fa78e5da932a7db9c58640ce9fd251c/update/AutoHome.apk",
+ "notes": "• Radio meno calda: telecamera a 15 immagini/s e auto 3D a 20 fps (la CPU era oltre il 300%)\n• Pulsante OBD sulla mappa\n• Luci LED: la ricerca ferma i tentativi automatici ed è più sensibile"
 }
