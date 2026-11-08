@@ -1,7 +1,7 @@
 {
- "versionCode": 73,
- "versionName": "3.19.1",
- "size": 55308012,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a3e9fbd7dd0560a481c4bb75b98725504968cf11/update/AutoHome.apk",
- "notes": "• Riserva: il distributore più vicino viene annunciato una sola volta\n• Gemini: se il modello non esiste più ne sceglie da solo uno valido (niente più errore 404)\n• Cambiare atmosfera non ricarica più la mappa\n• Luci LED: nuovo metodo di invio e codice di errore nella prova"
+ "versionCode": 75,
+ "versionName": "3.20.0",
+ "size": 55324386,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/bd18b32872298de1d45c49fe23437d5fa8ad8165/update/AutoHome.apk",
+ "notes": "• Luci LED: invio dei comandi uno alla volta (risolve i comandi rifiutati)\n• Avvisi più intelligenti: priorità, niente doppioni, in retromarcia solo quelli di sicurezza\n• Nuovo interruttore «Suggerimenti sul percorso»\n• Avanzate: prestazioni della radio dal vivo, stato del veicolo con le fonti dei dati, registro avvisi"
 }
