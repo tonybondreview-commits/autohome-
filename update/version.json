@@ -1,7 +1,7 @@
 {
- "versionCode": 80,
- "versionName": "3.20.5",
- "size": 55324475,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/be2664cdd5292ae222e45a3aaad840272ce4613c/update/AutoHome.apk",
- "notes": "• Orientamento telecamera: normale, ruotata 180°, specchiata, capovolta\n• Scelta della telecamera: USB, dashcam originale o automatica"
+ "versionCode": 81,
+ "versionName": "3.20.6",
+ "size": 55340859,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2da1c613913ab69df8e34763197d0f9f8c882abf/update/AutoHome.apk",
+ "notes": "• Distanza dei veicoli dal punto in cui toccano la strada (usa la regolazione dell'AR): più precisa\n• AR: riconosce le strisce della corsia e ci aggancia la scia del percorso"
 }
