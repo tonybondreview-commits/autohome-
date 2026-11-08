@@ -1,7 +1,7 @@
 {
- "versionCode": 83,
- "versionName": "3.20.8",
- "size": 55340867,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c41f44525085fe51e84aba7112070b98f58b0a0e/update/AutoHome.apk",
- "notes": "• Spotify a voce: cerca e fa partire il brano senza aprire Spotify\n• Radio calda: l'IA rallenta da sola\n• AR: punti gialli di diagnostica delle strisce (con Regola aperto)\n• Luci LED: metodo di invio alternativo e messaggio d'errore completo"
+ "versionCode": 84,
+ "versionName": "3.20.9",
+ "size": 55340863,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c99e12fe6b151bd2421e9781f9bbef6de6cbe4ea/update/AutoHome.apk",
+ "notes": "• Radio più fresca: da fermi la telecamera si mette a riposo\n• Navigazione come Maps: freccia blu e mappa che segue l'auto\n• «Ehi Audi» si riaccende da solo\n• Spotify: messaggio con il vero motivo se la ricerca non va"
 }
