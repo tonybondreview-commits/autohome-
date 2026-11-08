@@ -1,7 +1,7 @@
 {
- "versionCode": 81,
- "versionName": "3.20.6",
- "size": 55340859,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2da1c613913ab69df8e34763197d0f9f8c882abf/update/AutoHome.apk",
- "notes": "• Distanza dei veicoli dal punto in cui toccano la strada (usa la regolazione dell'AR): più precisa\n• AR: riconosce le strisce della corsia e ci aggancia la scia del percorso"
+ "versionCode": 82,
+ "versionName": "3.20.7",
+ "size": 55340868,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/62e623238b54fa79fa9fd0c8cf8bdfb0bfbe52d5/update/AutoHome.apk",
+ "notes": "• AR: la scia blu segue le strisce della corsia viste dalla telecamera (non più il GPS)\n• Audio: niente più voce dal piccolo altoparlante della radio (mix spento di serie)\n• Luci LED: la ricerca spiega perché non trova nulla"
 }
