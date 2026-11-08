@@ -1,7 +1,7 @@
 {
- "versionCode": 84,
- "versionName": "3.20.9",
- "size": 55340863,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c99e12fe6b151bd2421e9781f9bbef6de6cbe4ea/update/AutoHome.apk",
- "notes": "• Radio più fresca: da fermi la telecamera si mette a riposo\n• Navigazione come Maps: freccia blu e mappa che segue l'auto\n• «Ehi Audi» si riaccende da solo\n• Spotify: messaggio con il vero motivo se la ricerca non va"
+ "versionCode": 85,
+ "versionName": "3.21.0",
+ "size": 57326435,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a566df8ecde8fe0ac86105938ee271c58fbd8343/update/AutoHome.apk",
+ "notes": "• Auto senza 3D: fotografie del tuo modello con luci, frecce, porte e sensori dal vivo (molto più leggera)\n• Vista dall'alto in retromarcia con traiettoria\n• AR: freccia sull'asfalto che si piega verso la svolta"
 }
