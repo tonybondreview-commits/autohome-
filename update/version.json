@@ -1,7 +1,7 @@
 {
- "versionCode": 79,
- "versionName": "3.20.4",
- "size": 55324480,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cd2962b9c2fec8d23f7d142e6170388f2c26ce82/update/AutoHome.apk",
- "notes": "• Telecamera capovolta: rotazione di 180° (AR › Regola › Ruota 180°, oppure Assistenza alla guida)\n• L'immagine dritta vale per AR, riconoscimento, foto e tema"
+ "versionCode": 80,
+ "versionName": "3.20.5",
+ "size": 55324475,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/be2664cdd5292ae222e45a3aaad840272ce4613c/update/AutoHome.apk",
+ "notes": "• Orientamento telecamera: normale, ruotata 180°, specchiata, capovolta\n• Scelta della telecamera: USB, dashcam originale o automatica"
 }
