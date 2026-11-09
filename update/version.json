@@ -1,7 +1,7 @@
 {
- "versionCode": 85,
- "versionName": "3.21.0",
- "size": 57326435,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a566df8ecde8fe0ac86105938ee271c58fbd8343/update/AutoHome.apk",
- "notes": "• Auto senza 3D: fotografie del tuo modello con luci, frecce, porte e sensori dal vivo (molto più leggera)\n• Vista dall'alto in retromarcia con traiettoria\n• AR: freccia sull'asfalto che si piega verso la svolta"
+ "versionCode": 86,
+ "versionName": "3.21.1",
+ "size": 57326439,
+ "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/78b131b5d3c70162aacc95dba791a75095f21cc9/update/AutoHome.apk",
+ "notes": "• AR con dashcam: una sola freccia, solo vicino alla svolta\n• Spotify: ricerca a voce sistemata\n• Dashcam: se la lettura diretta non va, usa il servizio dell'app Traffic guard"
 }
