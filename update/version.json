@@ -1,7 +1,7 @@
 {
- "versionCode": 86,
- "versionName": "3.21.1",
- "size": 57326439,
- "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/78b131b5d3c70162aacc95dba791a75095f21cc9/update/AutoHome.apk",
- "notes": "• AR con dashcam: una sola freccia, solo vicino alla svolta\n• Spotify: ricerca a voce sistemata\n• Dashcam: se la lettura diretta non va, usa il servizio dell'app Traffic guard"
+  "versionCode": 87,
+  "versionName": "3.21.2",
+  "size": 57793306,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/01e874ebb225486267c31cbb6752e77bca6c04ab/update/AutoHome.apk",
+  "notes": "Portiere aperte: foto dell'auto con la portiera giusta (immagine sbagliata corretta). Da fermi a schermo intero, in marcia una finestra piccola in alto; sparisce quando chiudi o la tocchi."
 }
