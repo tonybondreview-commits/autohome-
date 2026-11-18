@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "3.23.0",
-  "size": 57809697,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2944ef938a52fe2d23b06689372bb5abd87bb6d5/update/AutoHome.apk",
-  "notes": "Navigazione: corsie da tenere e «poi…» nel riquadro verde; traffico in tempo reale (col token Mapbox): code colorate sul percorso e ritardo all'arrivo. Tachimetro MMI: cartello del limite, diventa rosso se lo superi, pulsa davanti agli autovelox. Riquadro in basso a destra a scorrimento (da fermi): strumenti, viaggio, telefono."
+  "versionCode": 93,
+  "versionName": "3.23.1",
+  "size": 57809690,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/14bfbc6d4ff206cdfcd5872adf2ce4b8486abec0/update/AutoHome.apk",
+  "notes": "Notifiche dell'iPhone: abbinamento più robusto (riprova da solo dopo l'abbinamento) e stato più chiaro nella scheda Notifiche. Include tutte le novità della 3.23.0."
 }
