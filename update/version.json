@@ -1,7 +1,7 @@
 {
-  "versionCode": 91,
-  "versionName": "3.22.1",
-  "size": 57793294,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/bc2ea21bf1de1aa7cb015fb50abc2475165584ee/update/AutoHome.apk",
-  "notes": "Layout MMI: in navigazione la svolta va nel riquadro in alto a destra e la musica scende sotto. Nuovo stile mappa Mapbox «Elegante 3D»: pulito, edifici 3D, percorso blu luminoso (predefinito nel layout MMI)."
+  "versionCode": 92,
+  "versionName": "3.23.0",
+  "size": 57809697,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2944ef938a52fe2d23b06689372bb5abd87bb6d5/update/AutoHome.apk",
+  "notes": "Navigazione: corsie da tenere e «poi…» nel riquadro verde; traffico in tempo reale (col token Mapbox): code colorate sul percorso e ritardo all'arrivo. Tachimetro MMI: cartello del limite, diventa rosso se lo superi, pulsa davanti agli autovelox. Riquadro in basso a destra a scorrimento (da fermi): strumenti, viaggio, telefono."
 }
