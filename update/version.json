@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "3.21.3",
-  "size": 57793306,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2752f204735279c2d628799e68861860f175c933/update/AutoHome.apk",
-  "notes": "Spotify a voce: capisce «fammi ascoltare…», «voglio sentire…», «metti un po' di…», «…su Spotify»; se dici un artista suona l'artista (non una sola canzone); «playlist …» e «album …». Usa prima Spotify già aperto sulla radio. Portiere: foto corrette, popup piccolo in marcia."
+  "versionCode": 90,
+  "versionName": "3.22.0",
+  "size": 57793289,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/9bf82e0b98c2c212729dc38192e1c3eae93b1ced/update/AutoHome.apk",
+  "notes": "Nuovo layout MMI (Impostazioni › Layout): mappa a sinistra con svolta in verde, musica e strumenti (giri, velocità, acqua) a destra, altezze regolabili. «Ehi Audi» non parte più da solo: serve la frase intera. Tolti il riconoscimento con IA e le luci LED. Mappa e schermata ora passano insieme da giorno a notte."
 }
