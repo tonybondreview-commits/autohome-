@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "3.24.1",
-  "size": 57826073,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a66c032465f1a6341a609184b9900f3037bb3bf1/update/AutoHome.apk",
-  "notes": "Layout MMI: nuova card meteo (adesso, min/max, prossime ore), card chiare col tema giorno, lettore ridisegnato, menu a sinistra più stretto, data accanto al meteo, indicazioni che si rimpiccioliscono da sole. «Segui i fari» ora usa anche il sole. Notifiche iPhone: la radio prova ad annunciarsi come collegabile."
+  "versionCode": 96,
+  "versionName": "3.24.2",
+  "size": 57826070,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/f3cf56ab1d312af249e5f06103d328c5bd2e8901/update/AutoHome.apk",
+  "notes": "Layout MMI: torna la schermata della retromarcia (sensori dall'alto), lettore su una riga con comandi sempre visibili, card più vicine, tasti della mappa sempre dentro la mappa, testo della svolta che si adatta davvero, card meteo senza testi tagliati."
 }
