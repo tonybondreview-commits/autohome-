@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "3.23.1",
-  "size": 57809690,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/14bfbc6d4ff206cdfcd5872adf2ce4b8486abec0/update/AutoHome.apk",
-  "notes": "Notifiche dell'iPhone: abbinamento più robusto (riprova da solo dopo l'abbinamento) e stato più chiaro nella scheda Notifiche. Include tutte le novità della 3.23.0."
+  "versionCode": 95,
+  "versionName": "3.24.1",
+  "size": 57826073,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a66c032465f1a6341a609184b9900f3037bb3bf1/update/AutoHome.apk",
+  "notes": "Layout MMI: nuova card meteo (adesso, min/max, prossime ore), card chiare col tema giorno, lettore ridisegnato, menu a sinistra più stretto, data accanto al meteo, indicazioni che si rimpiccioliscono da sole. «Segui i fari» ora usa anche il sole. Notifiche iPhone: la radio prova ad annunciarsi come collegabile."
 }
