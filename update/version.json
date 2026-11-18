@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "3.22.0",
-  "size": 57793289,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/9bf82e0b98c2c212729dc38192e1c3eae93b1ced/update/AutoHome.apk",
-  "notes": "Nuovo layout MMI (Impostazioni › Layout): mappa a sinistra con svolta in verde, musica e strumenti (giri, velocità, acqua) a destra, altezze regolabili. «Ehi Audi» non parte più da solo: serve la frase intera. Tolti il riconoscimento con IA e le luci LED. Mappa e schermata ora passano insieme da giorno a notte."
+  "versionCode": 91,
+  "versionName": "3.22.1",
+  "size": 57793294,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/bc2ea21bf1de1aa7cb015fb50abc2475165584ee/update/AutoHome.apk",
+  "notes": "Layout MMI: in navigazione la svolta va nel riquadro in alto a destra e la musica scende sotto. Nuovo stile mappa Mapbox «Elegante 3D»: pulito, edifici 3D, percorso blu luminoso (predefinito nel layout MMI)."
 }
