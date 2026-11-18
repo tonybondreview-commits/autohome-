@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "3.24.3",
-  "size": 57826071,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/547ed6802c90eda4705c419f047b4da271083f66/update/AutoHome.apk",
-  "notes": "Layout MMI ridisegnato sulle misure vere dello schermo: svolta con via sempre visibile, lettore con titolo, comandi e tasto play visibili, meteo compatto, maniglia tra le card con limiti sensati."
+  "versionCode": 98,
+  "versionName": "3.25.0",
+  "size": 39344585,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1595123f88476c63eb0b7f4f1bb4ba585ec5e2d8/update/AutoHome.apk",
+  "notes": "Comandi vocali nuovi: «quanto manca», «c'è traffico», «evita l'autostrada», «aggiungi una tappa…», «distributore più vicino/economico», «che tempo trovo quando arrivo», «ricordami di… quando arrivo a casa / tra 20 minuti / alle 18», «vado al lavoro», «torno a casa», «buongiorno», «layout MMI», «tema notte», «luminosità al minimo», «quanto ho consumato». Dopo una risposta resta in ascolto qualche secondo. App più leggera di 18 MB."
 }
