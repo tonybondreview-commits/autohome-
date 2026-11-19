@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "3.25.2",
-  "size": 39344622,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/19ee5eaf7d3d25787ec305230277422a8f9e0550/update/AutoHome.apk",
-  "notes": "Schermata Auto (layout MMI): 10 cerchi colorati su due file — velocità, giri, acqua, olio, turbo, carburante, consumo, carico motore, esterno, batteria."
+  "versionCode": 101,
+  "versionName": "3.26.0",
+  "size": 39361010,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/52706ff81af0b2cb3c7c21c1891d9ce594fa2312/update/AutoHome.apk",
+  "notes": "Guida corsie agli svincoli (layout MMI): vicino allo svincolo la card della svolta si allarga con una transizione morbida su tutta la colonna destra. Due stili da Impostazioni › Navigazione › Guida corsie: vista dell'incrocio (cartelli, strada e frecce blu) oppure minimal nero e rosso."
 }
