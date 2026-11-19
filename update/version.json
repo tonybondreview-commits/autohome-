@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "3.25.0",
-  "size": 39344585,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1595123f88476c63eb0b7f4f1bb4ba585ec5e2d8/update/AutoHome.apk",
-  "notes": "Comandi vocali nuovi: «quanto manca», «c'è traffico», «evita l'autostrada», «aggiungi una tappa…», «distributore più vicino/economico», «che tempo trovo quando arrivo», «ricordami di… quando arrivo a casa / tra 20 minuti / alle 18», «vado al lavoro», «torno a casa», «buongiorno», «layout MMI», «tema notte», «luminosità al minimo», «quanto ho consumato». Dopo una risposta resta in ascolto qualche secondo. App più leggera di 18 MB."
+  "versionCode": 99,
+  "versionName": "3.25.1",
+  "size": 39344638,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/319dd260b134322b6566ab2e4af8159679730a18/update/AutoHome.apk",
+  "notes": "«Ehi Audi» sente meglio (anche detto attaccato al comando) e non chiude subito: se non sente, riascolta una volta. Nuova impostazione «Sensibilità di Ehi Audi». Layout MMI: niente barra in alto, ora e data nella card del meteo; schermata Auto con l'auto a sinistra e i dati colorati a semicerchio. Media: freccia indietro in alto a sinistra."
 }
