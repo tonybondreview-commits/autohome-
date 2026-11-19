@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "3.28.1",
-  "size": 39393784,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/f1fa2609e78b0eded2255cea4fa46d7a60e6a81c/update/AutoHome.apk",
-  "notes": "Torna la vista 3D dello svincolo. Vista 2D sotto le indicazioni vicino alle svolte, con scia animata. Schermo pieno: tasti a destra sotto la card. «Il più vicino» a voce (es. la Lidl più vicina). Nuovo player: copertina sfocata, tasti grandi, titolo sotto."
+  "versionCode": 106,
+  "versionName": "3.29.0",
+  "size": 39410166,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a0311fd236830e6cef149c2a5816da1820c481fd/update/AutoHome.apk",
+  "notes": "Ricerca come Google Maps (tutti i risultati con via e distanza; corretto il «Nessun risultato»). Schermata Auto con la foto della tua A3 e le portiere aperte nel riquadro. OBD che si collega da solo, consumo medio del viaggio. Strumenti a barre, nuova pagina Strada, tasti del player nel cerchio, tolto NAV dal menu."
 }
