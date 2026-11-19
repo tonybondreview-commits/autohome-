@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "3.26.0",
-  "size": 39361010,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/52706ff81af0b2cb3c7c21c1891d9ce594fa2312/update/AutoHome.apk",
-  "notes": "Guida corsie agli svincoli (layout MMI): vicino allo svincolo la card della svolta si allarga con una transizione morbida su tutta la colonna destra. Due stili da Impostazioni › Navigazione › Guida corsie: vista dell'incrocio (cartelli, strada e frecce blu) oppure minimal nero e rosso."
+  "versionCode": 102,
+  "versionName": "3.26.1",
+  "size": 39361023,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/42fec996b47549c2e96f431cef62f71f1a8b001f/update/AutoHome.apk",
+  "notes": "Guida corsie: aggiunto lo stile «Incrocio in prospettiva» (carreggiata vista dall'alto, corsie giuste illuminate di blu, frecce sull'asfalto). Si sceglie in Impostazioni › Navigazione › Guida corsie agli svincoli, insieme a vista dell'incrocio e minimal nero e rosso."
 }
