@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "3.26.1",
-  "size": 39361023,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/42fec996b47549c2e96f431cef62f71f1a8b001f/update/AutoHome.apk",
-  "notes": "Guida corsie: aggiunto lo stile «Incrocio in prospettiva» (carreggiata vista dall'alto, corsie giuste illuminate di blu, frecce sull'asfalto). Si sceglie in Impostazioni › Navigazione › Guida corsie agli svincoli, insieme a vista dell'incrocio e minimal nero e rosso."
+  "versionCode": 103,
+  "versionName": "3.27.0",
+  "size": 39377396,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/7add3711809fda0353b8422e5f602e1653c20fef/update/AutoHome.apk",
+  "notes": "Guida corsie: nuovo stile «Svincolo vero in 3D» (mappa Mapbox inclinata sullo svincolo reale, accesa solo vicino all'uscita; senza rete torna la vista disegnata). I cartelli verdi ora mostrano numero d'uscita, sigla e destinazioni reali quando il percorso li ha."
 }
