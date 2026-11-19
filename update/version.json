@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "3.28.0",
-  "size": 39393779,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ed344c115daf8a23ada0b130ed7bd974f16152bd/update/AutoHome.apk",
-  "notes": "Navigatore a schermo pieno (tasto sulla mappa o «navigatore a schermo intero»). Vista dall'alto vicino a svolte e rotonde. Tolta la vista 3D. Grafica delle corsie non più tagliata. Ricerca a voce dei luoghi vicino a te (Mapbox + OpenStreetMap). Dopo un comando il microfono si chiude. Meteo che riprova da solo."
+  "versionCode": 105,
+  "versionName": "3.28.1",
+  "size": 39393784,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/f1fa2609e78b0eded2255cea4fa46d7a60e6a81c/update/AutoHome.apk",
+  "notes": "Torna la vista 3D dello svincolo. Vista 2D sotto le indicazioni vicino alle svolte, con scia animata. Schermo pieno: tasti a destra sotto la card. «Il più vicino» a voce (es. la Lidl più vicina). Nuovo player: copertina sfocata, tasti grandi, titolo sotto."
 }
