@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "3.30.0",
-  "size": 39410165,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/27710c45619c15480deb9c5144b46953bdde909a/update/AutoHome.apk",
-  "notes": "Partenza automatica a orari: lun–ven 8–9 e 14:30–17 verso il Lavoro, venerdì 11–12:30 verso Casa (modificabile in Impostazioni › Navigazione). La proposta della meta abituale ora torna a ogni accensione."
+  "versionCode": 108,
+  "versionName": "3.31.0",
+  "size": 65782933,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/eb0893653fae3023245d700a8d8249b1016ac3fa/update/AutoHome.apk",
+  "notes": "Google Maps: in Impostazioni › Navigazione › «Google Maps» inserisci la chiave API del tuo progetto Google Cloud. Con la chiave navigazione (mappa, traffico, voce) e ricerca di Google; senza, tutto come prima con Mapbox. L'app è più grande (contiene il navigatore di Google)."
 }
