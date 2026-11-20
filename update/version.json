@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "3.29.0",
-  "size": 39410166,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a0311fd236830e6cef149c2a5816da1820c481fd/update/AutoHome.apk",
-  "notes": "Ricerca come Google Maps (tutti i risultati con via e distanza; corretto il «Nessun risultato»). Schermata Auto con la foto della tua A3 e le portiere aperte nel riquadro. OBD che si collega da solo, consumo medio del viaggio. Strumenti a barre, nuova pagina Strada, tasti del player nel cerchio, tolto NAV dal menu."
+  "versionCode": 107,
+  "versionName": "3.30.0",
+  "size": 39410165,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/27710c45619c15480deb9c5144b46953bdde909a/update/AutoHome.apk",
+  "notes": "Partenza automatica a orari: lun–ven 8–9 e 14:30–17 verso il Lavoro, venerdì 11–12:30 verso Casa (modificabile in Impostazioni › Navigazione). La proposta della meta abituale ora torna a ogni accensione."
 }
