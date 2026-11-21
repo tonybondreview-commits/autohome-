@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "3.31.0",
+  "versionCode": 109,
+  "versionName": "3.31.1",
   "size": 65782933,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/eb0893653fae3023245d700a8d8249b1016ac3fa/update/AutoHome.apk",
-  "notes": "Google Maps: in Impostazioni › Navigazione › «Google Maps» inserisci la chiave API del tuo progetto Google Cloud. Con la chiave navigazione (mappa, traffico, voce) e ricerca di Google; senza, tutto come prima con Mapbox. L'app è più grande (contiene il navigatore di Google)."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/c8397bbff63760de593340075e1f3efbf717c9ab/update/AutoHome.apk",
+  "notes": "Google Maps selezionabile in Impostazioni › Aspetto › Mappe (mappa sempre di Google). Limite mensile di Google. La vista della svolta resta aperta fino a fine rotonda/incrocio, parte verde più bassa, niente più globo che si ricarica."
 }
