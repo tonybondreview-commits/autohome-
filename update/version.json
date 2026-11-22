@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "3.32.4",
-  "size": 65745326,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/efc4ddaa70fdd0731b389cafc366ed612f61a694/update/AutoHome.apk",
-  "notes": "Retrocamera: auto e sensori più piccoli, non escono più dal riquadro. Microfono: spegne il routing audio USB del convertitore (o spiega come farlo)."
+  "versionCode": 116,
+  "versionName": "3.32.5",
+  "size": 53654767,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/62fad72d9dd50d6c12b70767162f3c24013b1016/update/AutoHome.apk",
+  "notes": "Versione ottimizzata: APK più leggero (54 MB invece di 66) e app più veloce, perché ora è compilata come una versione finale e non di prova."
 }
