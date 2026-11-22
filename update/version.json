@@ -2,6 +2,6 @@
   "versionCode": 113,
   "versionName": "3.32.2",
   "size": 65723086,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/83e00fe3f781eedc1ffa35240852a01b32127a7f/update/AutoHome.apk",
-  "notes": "Gli aggiornamenti si scaricano in background e poi chiedono se installare (o si installano alla prossima accensione). Con Google Maps scelto non compare più la mappa OSM all'avvio. La retrocamera si riaccende da sola se era stata spenta."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/2665478384b88505d9a109164d6af21a9bd7b8e7/update/AutoHome.apk",
+  "notes": "Microfono di nuovo attivo con il convertitore della retrocamera collegato. Retrocamera: nuova grafica dei sensori, si chiude subito passando da R a D. Mappa Google subito all'avvio. Aggiornamenti scaricati in background."
 }
