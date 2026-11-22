@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "3.32.0",
+  "versionCode": 112,
+  "versionName": "3.32.1",
   "size": 65723086,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/8eb9b155cc7311fe293eb9604be8d5a0b6ea830a/update/AutoHome.apk",
-  "notes": "Navigazione Google come l'anteprima (ricerca, bussola, limite, Ricentra, barra dell'arrivo). Retrocamera a metà schermo con linee dinamiche dei sensori, anche a mano dalla schermata Auto. Foto Street View della destinazione all'arrivo. Lettore chiaro di giorno, icone del meteo a colori. Tolti dashcam e riconoscimento IA."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1572aedae0ecad7f11462615b40afaff7fcd66e8/update/AutoHome.apk",
+  "notes": "Google: niente più tasti Mapbox sovrapposti, Casa/Lavoro nella riga in alto, freccia sopra la barra, barra più bassa. Retrocamera: la ✕ chiude anche in R, tocco per riprovare, elenco dispositivi USB. Street View: avviso se la chiave non ha il Maps SDK."
 }
