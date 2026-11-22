@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "3.33.0",
-  "size": 53659752,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/221ed1a535172c0035e8468198a4f097f569ba70/update/AutoHome.apk",
-  "notes": "Retrocamera: la tua A3 in 3D con i sensori disegnati a terra e la traiettoria, volo della camera quando metti la R, vista dall'alto Area View. Si spegne in Impostazioni › Retrocamera › Vista 3D."
+  "versionCode": 118,
+  "versionName": "3.34.0",
+  "size": 53676556,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e77b59cde481f7743d123f7f75ef9f5da5b6f9cd/update/AutoHome.apk",
+  "notes": "Taratura della retrocamera (Impostazioni › Retrocamera › Taratura): con 6 fogli a terra le linee usano le distanze vere e nella vista 3D/Area View compare l'asfalto vero ripreso dalla telecamera."
 }
