@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "3.31.2",
-  "size": 65782929,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/b672fadd7241250d04a1a09dc11ee857caec681a/update/AutoHome.apk",
-  "notes": "La mappa scelta decide anche la navigazione: Google Maps → navigazione Google, Mapbox → navigazione Mapbox. La ricerca usa Google se c'è la chiave."
+  "versionCode": 111,
+  "versionName": "3.32.0",
+  "size": 65723086,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/8eb9b155cc7311fe293eb9604be8d5a0b6ea830a/update/AutoHome.apk",
+  "notes": "Navigazione Google come l'anteprima (ricerca, bussola, limite, Ricentra, barra dell'arrivo). Retrocamera a metà schermo con linee dinamiche dei sensori, anche a mano dalla schermata Auto. Foto Street View della destinazione all'arrivo. Lettore chiaro di giorno, icone del meteo a colori. Tolti dashcam e riconoscimento IA."
 }
