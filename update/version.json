@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "3.32.3",
-  "size": 65745290,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cded91e6690113e3bd6a207fa56343e7ac66557a/update/AutoHome.apk",
-  "notes": "Retrocamera a schermo intero in stile Audi con la tua A3 dall'alto e i sensori. Con Google: vista 2D/3D dell'incrocio e corsie, tasti in basso non più sovrapposti. Microfono: avviso se è occupato dal convertitore USB."
+  "versionCode": 115,
+  "versionName": "3.32.4",
+  "size": 65745326,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/efc4ddaa70fdd0731b389cafc366ed612f61a694/update/AutoHome.apk",
+  "notes": "Retrocamera: auto e sensori più piccoli, non escono più dal riquadro. Microfono: spegne il routing audio USB del convertitore (o spiega come farlo)."
 }
