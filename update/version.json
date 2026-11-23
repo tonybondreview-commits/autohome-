@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "3.35.0",
-  "size": 53937768,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1aa9425833cc9c228d43c5abd6546bcbfd760867/update/AutoHome.apk",
-  "notes": "Retromarcia: auto 3D di nuovo accanto al video, vista fissa da dietro (corretto l'errore che la faceva funzionare male). Tolti il volo della camera, l'Area View e l'asfalto dalla telecamera. Se il 3D non è pronto compare l'auto 2D, mai un riquadro vuoto."
+  "versionCode": 129,
+  "versionName": "3.35.1",
+  "size": 53937776,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/542359e275fe2f1e48f1009ace33c2318e6951cf/update/AutoHome.apk",
+  "notes": "Retromarcia: auto 3D con il volo della camera e Area View, senza l'immagine della telecamera sotto l'auto. Schermata Auto: foto della A3 con margini, non tocca più i bordi. Google Maps: nuovo tasto schermo intero accanto alla bussola."
 }
