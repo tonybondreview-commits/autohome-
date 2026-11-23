@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "3.34.7",
-  "size": 53693196,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/24c2b73866338f409cf2bb70ebfb891917e0f267/update/AutoHome.apk",
-  "notes": "Retromarcia: auto della grandezza di prima nel riquadro stretto. Partenza automatica: prima parla AutoHome, poi parte Google, senza voci sovrapposte. Retrocamera aperta a mano in movimento: resta aperta finché non la chiudi."
+  "versionCode": 126,
+  "versionName": "3.34.8",
+  "size": 53937760,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e2bcd23503b9ad17782ae9ed4840f1c36f093848/update/AutoHome.apk",
+  "notes": "Schermata Auto: foto della A3 scontornata, niente più sfondo nero di giorno. Avvio più rapido: auto 3D, telecamera USB e mappa di riserva partono dopo. Mappa Google: compare subito, senza aspettare il navigatore."
 }
