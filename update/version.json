@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "3.34.5",
-  "size": 53693044,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/41c81e406558d24c008ec1be326b264e3ddbd349/update/AutoHome.apk",
-  "notes": "Taratura retrocamera: accetta i fogli numerati per file (1-3-5 a sinistra, 2-4-6 a destra) e corregge grandangoli più forti. Vista dall'alto con l'asfalto vero anche prima della taratura (approssimata)."
+  "versionCode": 124,
+  "versionName": "3.34.6",
+  "size": 53693164,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/d896cefab25d9e112fd3e7c1b78b8d06f6204ea6/update/AutoHome.apk",
+  "notes": "Retromarcia: riquadro dell'auto più stretto e video più grande, vista 3D più aperta ai lati, Area View con l'asfalto vero più largo (4,8 × 4,4 m)."
 }
