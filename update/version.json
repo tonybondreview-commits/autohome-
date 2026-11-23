@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "3.34.6",
-  "size": 53693164,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/d896cefab25d9e112fd3e7c1b78b8d06f6204ea6/update/AutoHome.apk",
-  "notes": "Retromarcia: riquadro dell'auto più stretto e video più grande, vista 3D più aperta ai lati, Area View con l'asfalto vero più largo (4,8 × 4,4 m)."
+  "versionCode": 125,
+  "versionName": "3.34.7",
+  "size": 53693196,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/24c2b73866338f409cf2bb70ebfb891917e0f267/update/AutoHome.apk",
+  "notes": "Retromarcia: auto della grandezza di prima nel riquadro stretto. Partenza automatica: prima parla AutoHome, poi parte Google, senza voci sovrapposte. Retrocamera aperta a mano in movimento: resta aperta finché non la chiudi."
 }
