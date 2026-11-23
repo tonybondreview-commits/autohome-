@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "3.34.0",
+  "versionCode": 119,
+  "versionName": "3.34.1",
   "size": 53676556,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e77b59cde481f7743d123f7f75ef9f5da5b6f9cd/update/AutoHome.apk",
-  "notes": "Taratura della retrocamera (Impostazioni › Retrocamera › Taratura): con 6 fogli a terra le linee usano le distanze vere e nella vista 3D/Area View compare l'asfalto vero ripreso dalla telecamera."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/ee42d202376646c84da253ab41bf3673e1ffcf21/update/AutoHome.apk",
+  "notes": "Retrocamera più fluida: video a 30 fotogrammi al secondo e asfalto vero nella vista 3D/Area View a circa 12 al secondo."
 }
