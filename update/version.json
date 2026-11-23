@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "3.34.2",
-  "size": 53692940,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/6bfd8e8aab9dd40840b795c6eb4c1726e7fb60c4/update/AutoHome.apk",
-  "notes": "Corretto il blocco di AutoHome quando si collega la retrocamera («Ehi Audi» ora usa sempre il microfono della radio). Vista 3D più piccola e video più grande. La finestra di Google Maps si accetta una volta sola."
+  "versionCode": 121,
+  "versionName": "3.34.3",
+  "size": 53692936,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/d36e4f35197af32f417e05cd923bff6bce6c4167/update/AutoHome.apk",
+  "notes": "Street View all'arrivo: se la vista interattiva non parte, foto fissa della destinazione; se Google rifiuta, la card mostra il motivo esatto."
 }
