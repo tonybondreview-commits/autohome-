@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "3.34.9",
-  "size": 53937756,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/37ed68ae1673116cc68a7d75fbfe114f210cb740/update/AutoHome.apk",
-  "notes": "Retromarcia: vista 3D in pausa, accanto al video l'auto vista dall'alto più grande con i sensori. La retrocamera non si chiude più da sola per letture mancate del CAN o salti del GPS, e con un'altra app davanti AutoHome torna in primo piano quando metti la R. Mappa Google: compare subito, la mappa di riserva non si carica più all'avvio."
+  "versionCode": 128,
+  "versionName": "3.35.0",
+  "size": 53937768,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1aa9425833cc9c228d43c5abd6546bcbfd760867/update/AutoHome.apk",
+  "notes": "Retromarcia: auto 3D di nuovo accanto al video, vista fissa da dietro (corretto l'errore che la faceva funzionare male). Tolti il volo della camera, l'Area View e l'asfalto dalla telecamera. Se il 3D non è pronto compare l'auto 2D, mai un riquadro vuoto."
 }
