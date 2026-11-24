@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "3.36.2",
-  "size": 53961035,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/e1fa12673f08406a1d67d255eac8d8dcb7cb65be/update/AutoHome.apk",
-  "notes": "Corretto: le app tornavano subito alla home. EasyCap: video non compresso, 4:3, 25 fotogrammi. Retrocamera più fluida. Layout Tesla: card dell'auto con frecce, stop, fari, sensori e porte; il percorso blu diventa una freccia verso la svolta. Freccia di Google Maps più in basso."
+  "versionCode": 134,
+  "versionName": "3.36.3",
+  "size": 53961571,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1ad07dca600edd837f877c5fc8de5fea46a9137c/update/AutoHome.apk",
+  "notes": "Layout Tesla: musica dentro la card dell'auto con i tasti interi, freccia del percorso più visibile, velocità in alto a sinistra. Retrocamera: niente più sfarfallio, nuova scelta Standard video (PAL/NTSC) per l'EasyCap. OBD Bluetooth: si ricollega da solo in 10 secondi."
 }
