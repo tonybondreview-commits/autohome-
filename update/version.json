@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "3.36.3",
-  "size": 53961571,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/1ad07dca600edd837f877c5fc8de5fea46a9137c/update/AutoHome.apk",
-  "notes": "Layout Tesla: musica dentro la card dell'auto con i tasti interi, freccia del percorso più visibile, velocità in alto a sinistra. Retrocamera: niente più sfarfallio, nuova scelta Standard video (PAL/NTSC) per l'EasyCap. OBD Bluetooth: si ricollega da solo in 10 secondi."
+  "versionCode": 135,
+  "versionName": "3.37.0",
+  "size": 54076301,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a516809d73b66e8fc02c01b048a957b5cf766eae/update/AutoHome.apk",
+  "notes": "Due nuovi layout: «Pulita» (card bianche, mappa arrotondata, giorno e notte) e «Studio» (pannello auto scuro con P/D, musica in basso, dock). Si scelgono in Impostazioni → Layout."
 }
