@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "3.35.2",
-  "size": 53938048,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/881601a89d49178b6ed16efdbec0957080468490/update/AutoHome.apk",
-  "notes": "Tema natalizio: lucine in alto, neve che cade, colori rosso e oro, neve sotto la A3 e conto alla rovescia a Natale. Si accende da solo dall'8 dicembre al 6 gennaio; in Impostazioni › Aspetto › Tema natalizio puoi tenerlo sempre acceso o spento."
+  "versionCode": 131,
+  "versionName": "3.36.0",
+  "size": 53957839,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/80973eb84d42773a11ed6e1588064d56f932d531/update/AutoHome.apk",
+  "notes": "Nuovo layout Tesla (Impostazioni › Aspetto › Layout): mappa a tutto schermo, la tua A3 in 3D sulla strada in una card a sinistra con marcia, velocità, limite, autonomia e percorso blu; svolta e musica che galleggiano sulla mappa; barra in basso con ora e temperatura."
 }
