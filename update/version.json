@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "3.35.1",
-  "size": 53937776,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/542359e275fe2f1e48f1009ace33c2318e6951cf/update/AutoHome.apk",
-  "notes": "Retromarcia: auto 3D con il volo della camera e Area View, senza l'immagine della telecamera sotto l'auto. Schermata Auto: foto della A3 con margini, non tocca più i bordi. Google Maps: nuovo tasto schermo intero accanto alla bussola."
+  "versionCode": 130,
+  "versionName": "3.35.2",
+  "size": 53938048,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/881601a89d49178b6ed16efdbec0957080468490/update/AutoHome.apk",
+  "notes": "Tema natalizio: lucine in alto, neve che cade, colori rosso e oro, neve sotto la A3 e conto alla rovescia a Natale. Si accende da solo dall'8 dicembre al 6 gennaio; in Impostazioni › Aspetto › Tema natalizio puoi tenerlo sempre acceso o spento."
 }
