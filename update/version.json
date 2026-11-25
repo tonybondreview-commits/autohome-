@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "3.38.0",
-  "size": 54076305,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/47cbdbcc9b9b68cf18848cad4a912c17564ba479/update/AutoHome.apk",
-  "notes": "Backup delle impostazioni (chiavi, layout, Casa/Lavoro, calibrazioni): uno al giorno e prima di ogni aggiornamento, in Documenti/AutoHome-backup. Se l'app riparte vuota propone il ripristino. A mano: Impostazioni → Sistema → Backup impostazioni."
+  "versionCode": 138,
+  "versionName": "3.39.0",
+  "size": 54093825,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a5bff419b9dad92a5557dab15d907ca103f321f0/update/AutoHome.apk",
+  "notes": "Pulita: barra sinistra più stretta con ora, gradi e 4G; card più alte. Marcia inserita evidenziata. Autonomia e consumo dall'OBD quando l'auto non li manda. In retromarcia la telecamera prende il posto della mappa e la card dell'auto mostra i sensori. La navigazione Google non si perde più cambiando layout."
 }
