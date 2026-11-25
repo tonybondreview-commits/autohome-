@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "3.37.0",
+  "versionCode": 136,
+  "versionName": "3.37.1",
   "size": 54076301,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a516809d73b66e8fc02c01b048a957b5cf766eae/update/AutoHome.apk",
-  "notes": "Due nuovi layout: «Pulita» (card bianche, mappa arrotondata, giorno e notte) e «Studio» (pannello auto scuro con P/D, musica in basso, dock). Si scelgono in Impostazioni → Layout."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a185c41196a3662d0fa35c059a0679b13b19205b/update/AutoHome.apk",
+  "notes": "Corretto: i layout Pulita e Studio mostravano «Pagina web non disponibile». Se la pagina non si carica, AutoHome torna da sola al layout MMI."
 }
