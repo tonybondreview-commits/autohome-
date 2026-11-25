@@ -1,7 +1,7 @@
 {
-  "versionCode": 138,
-  "versionName": "3.39.0",
-  "size": 54093825,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/a5bff419b9dad92a5557dab15d907ca103f321f0/update/AutoHome.apk",
-  "notes": "Pulita: barra sinistra più stretta con ora, gradi e 4G; card più alte. Marcia inserita evidenziata. Autonomia e consumo dall'OBD quando l'auto non li manda. In retromarcia la telecamera prende il posto della mappa e la card dell'auto mostra i sensori. La navigazione Google non si perde più cambiando layout."
+  "versionCode": 139,
+  "versionName": "3.39.1",
+  "size": 54094637,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/02a5a58b7f4845460d2cd3fcf4b116cabf2d27c9/update/AutoHome.apk",
+  "notes": "Pulita/Studio: la card dell'auto non resta più in retromarcia; zoom più stretto vicino alle svolte (Google); icona meteo e stato della rete (4G/Wi-Fi) in alto nella barra."
 }
