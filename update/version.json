@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "3.39.1",
-  "size": 54094637,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/02a5a58b7f4845460d2cd3fcf4b116cabf2d27c9/update/AutoHome.apk",
-  "notes": "Pulita/Studio: la card dell'auto non resta più in retromarcia; zoom più stretto vicino alle svolte (Google); icona meteo e stato della rete (4G/Wi-Fi) in alto nella barra."
+  "versionCode": 140,
+  "versionName": "3.40.0",
+  "size": 54095773,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/0fd22ef94a7de331e4121ffd00fc3a540fbb1122/update/AutoHome.apk",
+  "notes": "Pulita: in navigazione la card dell'auto diventa 3D con la scia blu che fa da freccia verso la svolta, conto alla rovescia dei metri e promemoria della freccia."
 }
