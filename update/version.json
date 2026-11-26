@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "3.40.0",
-  "size": 54095773,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/0fd22ef94a7de331e4121ffd00fc3a540fbb1122/update/AutoHome.apk",
-  "notes": "Pulita: in navigazione la card dell'auto diventa 3D con la scia blu che fa da freccia verso la svolta, conto alla rovescia dei metri e promemoria della freccia."
+  "versionCode": 141,
+  "versionName": "3.40.1",
+  "size": 54095797,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/3975f4c4995d7972f1edd143c7f066cac23ffce9/update/AutoHome.apk",
+  "notes": "Corrette sovrapposizioni (Tesla: Cerca/Casa/Lavoro in navigazione; Pulita/Studio: riquadro Ignora di Google). Retromarcia: auto con il retro in basso e sensori dietro. Street View: foto scaricata all'avvio della navigazione, si apre subito. Consumo medio solo sopra i 20 km/h."
 }
