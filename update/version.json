@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "3.41.1",
-  "size": 54118898,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/82c0307244c31cfe9afd0a0fcf1fdbae0fceada7/update/AutoHome.apk",
-  "notes": "Card 3D più fluida e auto agganciata alla strada; percorso blu anche con Google; Google Maps più vicino (ancora di più alle svolte); ora, meteo, 4G e svolta più grandi; avanzamento del download degli aggiornamenti e installazione anche in marcia."
+  "versionCode": 144,
+  "versionName": "3.42.0",
+  "size": 54120186,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/fbdb7a64b72ca19507114094aff231201fdea99f/update/AutoHome.apk",
+  "notes": "Pulita: destinazione e musica diventano due pillole della stessa grandezza in basso sulla mappa; un tocco le apre (Tappa/Termina, brano precedente/successivo) e si richiudono da sole."
 }
