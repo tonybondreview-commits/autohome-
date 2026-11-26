@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "3.41.0",
-  "size": 54117690,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/230fa2c68726c1374747c71ae8d14463e43deda5/update/AutoHome.apk",
-  "notes": "Pulita: in marcia la card dell'auto diventa una mappa 3D ravvicinata che segue l'auto, con percorso e freccia della svolta in navigazione (svolta indicata una volta sola). Retromarcia con auto più grande e alone colorato dietro il paraurti. Player con copertina sfocata e titolo più leggibile."
+  "versionCode": 143,
+  "versionName": "3.41.1",
+  "size": 54118898,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/82c0307244c31cfe9afd0a0fcf1fdbae0fceada7/update/AutoHome.apk",
+  "notes": "Card 3D più fluida e auto agganciata alla strada; percorso blu anche con Google; Google Maps più vicino (ancora di più alle svolte); ora, meteo, 4G e svolta più grandi; avanzamento del download degli aggiornamenti e installazione anche in marcia."
 }
