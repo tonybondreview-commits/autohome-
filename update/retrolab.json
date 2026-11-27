@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "lab-2",
+  "versionCode": 3,
+  "versionName": "lab-3",
   "size": 5990502,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/596c067ae943dbdb7269cf196115791c3cf6f11b/update/retrolab.apk",
-  "notes": "Il formato del convertitore si sceglie dopo l'apertura della telecamera (EasyCap a 720×576 invece di 1920×1080)."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/200d973ba1fba61f40dfde12d4aed7e9abeb0f2a/update/retrolab.apk",
+  "notes": "Se il convertitore parte a 1920×1080, la telecamera si chiude e si riapre a 720×576; il formato giusto viene ricordato."
 }
