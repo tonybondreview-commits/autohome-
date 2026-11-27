@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "3.45.0",
-  "size": 41862292,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/9bb4fee0744029ad2237b0c8f1d61d2280f15579/update/AutoHome.apk",
-  "notes": "Layout Automotive: cartello della svolta più piccolo e barra del tempo di arrivo più bassa, così in navigazione si vede molta più strada. Musica, Telefono e App si aprono sopra la barra in basso, che resta sempre visibile (l'icona del pannello aperto si accende; toccala di nuovo per chiudere). App più leggera (da 54 a 42 MB): tolti «Ehi Audi» e la mappa offline dell'Alto Adige (i file già scaricati sulla radio vengono cancellati per liberare spazio); il microfono con il tasto funziona come prima."
+  "versionCode": 149,
+  "versionName": "3.46.0",
+  "size": 41862872,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cc87090b8dc1e6428eb484b2dc93a26b948c3611/update/AutoHome.apk",
+  "notes": "Layout Automotive: vicino agli svincoli il cartello verde della svolta mostra le corsie (quelle giuste illuminate), quando Google le fornisce. Nell'ultimo chilometro prima di una svolta la scheda Velocità diventa la vista 3D Mapbox dell'incrocio vero con il percorso blu; la velocità resta in alto. Serve il token Mapbox e internet: senza, la scheda resta quella di sempre."
 }
