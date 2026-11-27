@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "3.46.0",
+  "versionCode": 150,
+  "versionName": "3.46.1",
   "size": 41862872,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/cc87090b8dc1e6428eb484b2dc93a26b948c3611/update/AutoHome.apk",
-  "notes": "Layout Automotive: vicino agli svincoli il cartello verde della svolta mostra le corsie (quelle giuste illuminate), quando Google le fornisce. Nell'ultimo chilometro prima di una svolta la scheda Velocità diventa la vista 3D Mapbox dell'incrocio vero con il percorso blu; la velocità resta in alto. Serve il token Mapbox e internet: senza, la scheda resta quella di sempre."
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/7d8a89dfbe5e1f10441e1a2e6f1230b13860e680/update/AutoHome.apk",
+  "notes": "Retrocamera: gli EasyCap con chip MacroSilicon ora si aprono a 720×576 (prima a 1920×1080, con immagine nera). Nuova voce Impostazioni › Retrocamera › Formato video per scegliere a mano il formato del convertitore se si vede nero. La telecamera USB e Mapbox non si spengono più da sole dopo l'installazione di un aggiornamento («spenta dopo un blocco»)."
 }
