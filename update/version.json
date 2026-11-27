@@ -1,7 +1,7 @@
 {
-  "versionCode": 145,
-  "versionName": "3.43.0",
-  "size": 54120414,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/7992b81ea9014ec13b426d2b8fa450ee3c05b7ab/update/AutoHome.apk",
-  "notes": "Pulita: in navigazione la card mostra l'auto 3D con la scia blu che diventa la freccia della prossima svolta (niente seconda mappa); nella pillola della musica c'è anche il tasto brano successivo; i riquadri mostrano solo dati misurati: Viaggio (km e tempo) e Motore (temperatura liquido e batteria dall'OBD), oppure la velocità media se l'OBD non è collegato."
+  "versionCode": 146,
+  "versionName": "3.44.0",
+  "size": 54123094,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/6ece7cee5af13e45aaa28a1f1ab1996405715a9a/update/AutoHome.apk",
+  "notes": "Nuovo layout Automotive (Aspetto → Layout): mappa grande a sinistra, schede Velocità e Musica a destra, barra in basso con ora, meteo, batteria e rete. In navigazione cartello verde della svolta e barra con durata, km e arrivo. In retromarcia il video va al posto della mappa con le linee guida, e a destra compaiono la distanza dall'ostacolo e i sensori attorno all'auto."
 }
