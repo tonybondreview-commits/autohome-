@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "lab-3",
-  "size": 5990502,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/200d973ba1fba61f40dfde12d4aed7e9abeb0f2a/update/retrolab.apk",
-  "notes": "Se il convertitore parte a 1920×1080, la telecamera si chiude e si riapre a 720×576; il formato giusto viene ricordato."
+  "versionCode": 4,
+  "versionName": "lab-4",
+  "size": 5990498,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/3d5b335414823bbbcbd3665f6fb8a2fa5a4f4fdc/update/retrolab.apk",
+  "notes": "Prove: miniatura e luminosità dei fotogrammi che arrivano dal convertitore, interruttore per non staccare l'audio USB."
 }
