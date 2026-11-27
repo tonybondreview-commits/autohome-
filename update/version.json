@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "3.42.0",
-  "size": 54120186,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/fbdb7a64b72ca19507114094aff231201fdea99f/update/AutoHome.apk",
-  "notes": "Pulita: destinazione e musica diventano due pillole della stessa grandezza in basso sulla mappa; un tocco le apre (Tappa/Termina, brano precedente/successivo) e si richiudono da sole."
+  "versionCode": 145,
+  "versionName": "3.43.0",
+  "size": 54120414,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/7992b81ea9014ec13b426d2b8fa450ee3c05b7ab/update/AutoHome.apk",
+  "notes": "Pulita: in navigazione la card mostra l'auto 3D con la scia blu che diventa la freccia della prossima svolta (niente seconda mappa); nella pillola della musica c'è anche il tasto brano successivo; i riquadri mostrano solo dati misurati: Viaggio (km e tempo) e Motore (temperatura liquido e batteria dall'OBD), oppure la velocità media se l'OBD non è collegato."
 }
