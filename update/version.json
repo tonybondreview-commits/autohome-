@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "3.44.0",
-  "size": 54123094,
-  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/6ece7cee5af13e45aaa28a1f1ab1996405715a9a/update/AutoHome.apk",
-  "notes": "Nuovo layout Automotive (Aspetto → Layout): mappa grande a sinistra, schede Velocità e Musica a destra, barra in basso con ora, meteo, batteria e rete. In navigazione cartello verde della svolta e barra con durata, km e arrivo. In retromarcia il video va al posto della mappa con le linee guida, e a destra compaiono la distanza dall'ostacolo e i sensori attorno all'auto."
+  "versionCode": 148,
+  "versionName": "3.45.0",
+  "size": 41862292,
+  "apk": "https://raw.githubusercontent.com/tonybondreview-commits/autohome-/9bb4fee0744029ad2237b0c8f1d61d2280f15579/update/AutoHome.apk",
+  "notes": "Layout Automotive: cartello della svolta più piccolo e barra del tempo di arrivo più bassa, così in navigazione si vede molta più strada. Musica, Telefono e App si aprono sopra la barra in basso, che resta sempre visibile (l'icona del pannello aperto si accende; toccala di nuovo per chiudere). App più leggera (da 54 a 42 MB): tolti «Ehi Audi» e la mappa offline dell'Alto Adige (i file già scaricati sulla radio vengono cancellati per liberare spazio); il microfono con il tasto funziona come prima."
 }
